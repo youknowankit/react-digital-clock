@@ -6,8 +6,8 @@ A simple React app that displays a live digital clock and allows users to custom
 
 ## 🖼️ Screenshots
 
-![App Screenshot1](./assets/screenshot1.png)
-![App Screenshot2](./assets/screenshot2.png)
+![App Screenshot1](./src/assets/screenshot1.png)
+![App Screenshot2](./src/assets/screenshot2.png)
 
 ---
 
