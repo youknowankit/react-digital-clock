@@ -4,6 +4,13 @@ A simple React app that displays a live digital clock and allows users to custom
 
 ---
 
+## 🖼️ Screenshots
+
+![App Screenshot1](./assets/screenshot1.png)
+![App Screenshot2](./assets/screenshot2.png)
+
+---
+
 ## 🚀 Features
 
 - ⏱️ Live digital clock that updates every second
@@ -55,12 +62,6 @@ react-digital-clock/
 │
 └── README.md # ✅ You're here!
 
-
----
-
-## 🖼️ Screenshot
-
-![App Screenshot](./assets/screenshot.png)
 
 ---
 
